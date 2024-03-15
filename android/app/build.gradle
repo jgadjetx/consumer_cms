@@ -22,6 +22,9 @@ if (flutterVersionName == null) {
     flutterVersionName = '1.0'
 }
 
+
+apply plugin: 'com.google.gms.google-services'
+
 android {
     namespace "com.example.consumer_cms"
     compileSdk flutter.compileSdkVersion
@@ -65,4 +68,6 @@ flutter {
     source '../..'
 }
 
-dependencies {}
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:28.0.0')
+}
