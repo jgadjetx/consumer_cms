@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902308281624",
+    "project_id": "clientone-8a1e7",
+    "storage_bucket": "clientone-8a1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902308281624:android:6a70053f56c276e4c2f26d",
+        "android_client_info": {
+          "package_name": "com.example.aexCms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5hjvy0K_AgjHXslJ36Mi6CG61E9qePU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
